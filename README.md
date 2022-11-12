@@ -1,5 +1,5 @@
 # crud-mvc
-## CRUD using C#, .NET, Entity Framework and SQL Server.
+## CRUD usando C#, .NET, Entity Framework y SQL Server.
 
 ### Home Page
 ![Home Page](https://github.com/angeldev96/crud-mvc/blob/master/1.png?raw=true)
